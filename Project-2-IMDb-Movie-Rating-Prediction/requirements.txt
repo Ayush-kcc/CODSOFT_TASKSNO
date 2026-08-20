@@ -1,0 +1,8 @@
+Library 	Purpose
+pandas   	Loading and manipulating the movie dataset
+numpy	        Numerical calculations
+matplotlib	Creating graphs
+seaborn	        Statistical/data visualization
+scikit-learn	Machine learning models, preprocessing, tuning, evaluation
+joblib	        Saving/loading your trained model
+jupyter	        Running your .ipynb notebook
