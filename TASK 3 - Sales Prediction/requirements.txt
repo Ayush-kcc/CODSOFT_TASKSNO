@@ -1,0 +1,7 @@
+pandas       → Data handling
+numpy        → Numerical computing
+matplotlib   → Plotting
+seaborn      → Statistical visualization
+scikit-learn → Machine learning
+joblib       → Model saving
+jupyter      → Notebook environment
